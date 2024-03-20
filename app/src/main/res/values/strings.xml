@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="string">Строка</string>
+    <string name="number">Число</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
